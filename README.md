@@ -1,6 +1,5 @@
 # PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
-Autor: Eva Maria Seoane Martínez
-Fecha: 23/05/2023
+autor: Eva Maria Seoane Mart%C3%ADnezFecha: 23/05/2023
 # La hibridación según Manovich
 
 En este reto que vamos a desarrollar tendremos que analizar, a través de las gafas de Manovich, dos casos de hibridación.
